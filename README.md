@@ -95,5 +95,7 @@ git commit -m "updated submodule"
 git push origin master
 ```
 
-You will see your commit ID change
+You will see your commit ID change.
+
+And that's it! your submodule is now connected and you are ready to share your files!
 
